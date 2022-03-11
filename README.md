@@ -6,7 +6,7 @@ The goal of this project was to analysis the Pyber ride sharing data in order to
 
 ## Results
 
-![ScreenShot]
+![ScreenShot](https://github.com/gonzalesbarrett/PyBer_Analysis/blob/main/Analysis/Pyber_Results.png)
 
 The primary findings from the above data:
 
@@ -18,6 +18,6 @@ The primary findings from the above data:
 
 ## Summary
 
-![ScreenShot]
+![ScreenShot](https://github.com/gonzalesbarrett/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
 
 Further analysis would be required for a complete conclusion (such as average wait time, cancelled ride requests, competition impact etc) but it appears that both Rural and Suburban cities would benefit from more drivers. But, since demand is more likely fairly low in rural areas it seems the primary target for expansion should be Suburban areas. Any significant increase in drivers in rural areas would reduce average fare & fare per driver but more than likely lead to high idle times for drivers. Suburban offers the best expansion for both reducing costs for the customer and increasing profits for Pyber. More analysis would be required on the length of trip and potential high demand times in Rural areas to ensure that any push in driver count would be profitable. 
